@@ -2,7 +2,7 @@
 
 > 🇪🇸 [Versión en español](README.es.md)
 
-Python utility for generating secure license keys with expiration dates. Created for [CentralCore](https://github.com/marius-db/CentralCore).
+Python utility for generating secure license keys with expiration dates. Created for [CentralCore](https://github.com/NexusLW/CentralCore).
 
 ## Overview
 
